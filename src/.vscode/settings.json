@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pwm.h": "c",
+        "fpu.h": "c",
+        "pin_map.h": "c",
+        "hw_ints.h": "c",
+        "stdbool.h": "c",
+        "gpio.h": "c"
+    }
+}
